@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    text-align:center;
+}
+.overflow-main{
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: rgb(4, 230, 23);
+    overflow:scroll;
+    font-style: italic;
+    font-size: 1em ;
+    
+    
+    /* overflow: auto; */
+    /* overflow: hidden; */
+    /* display:none; */
+
+}
+.main-div{
+    width: 80%;
+    height: 20%;
+    border: 1px solid red;
+    
+
+}
